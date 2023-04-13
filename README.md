@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hola! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Soy Raul Gomez. Programador Full Stack Web, actualmente estudiante de platzi.com, buscando a especializarme en el stack de JavaScript. Estoy abierto para colaboraciones a ideas innovadoras, para ayudar y brindar apoyo. Me pueden contactar por:
 
