@@ -1,6 +1,6 @@
 ## Hola! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Soy Raul Gomez. Programador Full Stack Web, actualmente estudiante de platzi.com, buscando a especializarme en el stack de JavaScript. Estoy abierto para colaboraciones a ideas innovadoras, para ayudar y brindar apoyo. Me pueden contactar por:
+Soy Raul Gomez. Apasionado desarrollador Full Stack JavaScript con 5 años de experiencia construyendo sistemas web y aplicaciones móviles. He trabajado en una variedad de proyectos, principalmente sistemas de gestión, utilizando frameworks JavaScript como React JS, Vue JS, Node JS, Express JS y React Native. También tengo conocimientos avanzados de HTML y CSS. Me pueden contactar por:
 
 [![Linkedin Badge](https://img.shields.io/badge/-raulalbertogomez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulalbertogomez)](https://www.linkedin.com/in/raulalbertogomez)
 [![Gmail Badge](https://img.shields.io/badge/-raggmagm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raggmagm@gmail.com)](mailto:raggmagm@gmail.com)
