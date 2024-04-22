@@ -5,7 +5,7 @@ Soy Raul Gomez. Apasionado desarrollador Full Stack JavaScript con 5 años de ex
 [![Linkedin Badge](https://img.shields.io/badge/-raulalbertogomez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulalbertogomez)](https://www.linkedin.com/in/raulalbertogomez)
 [![Gmail Badge](https://img.shields.io/badge/-raggmagm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raggmagm@gmail.com)](mailto:raggmagm@gmail.com)
 
-[Portafolio](ragomez33.github.io/portfolio/)
+[Portafolio](https://ragomez33.github.io/portfolio/)
 
 ## ⚡ Technologies
 
